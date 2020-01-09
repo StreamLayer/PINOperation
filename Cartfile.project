@@ -1,0 +1,11 @@
+PINOperation:
+  project: PINOperation.xcodeproj
+  sdks:
+  - iphonesimulator
+  - iphoneos
+
+PINOperation-tvOS:
+  project: PINOperation.xcodeproj
+  sdks:
+  - appletvos
+  - appletvsimulator
